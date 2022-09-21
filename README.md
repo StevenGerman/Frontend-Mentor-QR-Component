@@ -1,0 +1,1 @@
+Qr-component con Flex.
